@@ -28,3 +28,8 @@ Then you can start the training by running
     
 The model I've trained can also be found in the directory 'ckpt' in my google drive.
 
+track_game_offside_detection.py requires the folder "object_detection" to run, which is on the TensorFlow github:
+
+    https://github.com/tensorflow/models/tree/master/research/object_detection
+
+
